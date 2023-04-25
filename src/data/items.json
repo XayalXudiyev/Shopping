@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "price": 30,
+        "imgUrl": "./img/foto1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Peter",
+        "price": 40,
+        "imgUrl": "./img/foto2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Amy",
+        "price": 50,
+        "imgUrl": "./img/foto3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Hannah",
+        "price": 60,
+        "imgUrl": "./img/foto4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Michael",
+        "price": 70,
+        "imgUrl": "./img/foto5.jpg"
+    }
+]
